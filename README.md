@@ -8,3 +8,7 @@
    2. add products images (in public folder)
    3. render products (in App.js file)
    4. style products
+3. Add routing
+   1. npm i react-router-dom
+   2. create route for home screen
+   3. create router for product screen
